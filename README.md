@@ -1,6 +1,31 @@
-# School Projects
-Source code for projects i had to make for computer scicene
+# 🎓 School Projects Repository
 
-### Project 2 "Dead Air"/"Battery thing"
-  For this project I had to receive encrypted radio signals then decrypt them and store them.
-  
+This repository contains source code for various computer science projects completed during my high school years.  
+Each year (or course period) has its own folder containing one or more projects.
+
+## 📡 "Dead Air" 
+
+**Year:** 2025  
+**Description:**  
+This project focused on handling encrypted radio communication. The goal was to:
+1. Receive incoming encrypted radio signals.  
+2. Decrypt the received transmissions using ROT13.  
+3. Store the decrypted data efficiently for later processing or analysis.
+
+**Skills & Technologies Used:**  
+- 	Python, basic C/C++ (micro:bit) 
+-  	Arrays for data handling  
+-   Signal processing  
+	
+
+**Learning Outcome:**  
+Learned how to process and decrypt messages using basic algorithms (ROT13).
+
+---
+
+## 🧭 How to Navigate
+
+1. Open the folder corresponding to the **year** of the project.
+2. Inside, view the specific **project** folder.
+3. Check the `README.md` inside each project for details on setup, usage, and results.
+
