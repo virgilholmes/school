@@ -27,5 +27,5 @@ Learned how to process and decrypt messages using basic algorithms (ROT13).
 
 1. Open the folder corresponding to the **year** of the project.
 2. Inside, view the specific **project** folder.
-3. Check the `README.md` inside each project for details on setup, usage, and results.
+
 
