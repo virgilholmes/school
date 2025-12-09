@@ -1,4 +1,4 @@
-# 🎓 School Projects Repository
+#  school projects
 
 This repository contains source code for various computer science projects completed during my high school years.  
 Each year (or course period) has its own folder containing one or more projects.
@@ -22,10 +22,5 @@ This project focused on handling encrypted radio communication on a BBC micro:bi
 Learned how to process and decrypt messages using basic algorithms (ROT13).
 
 ---
-
-## 🧭 How to Navigate
-
-1. Open the folder corresponding to the **year** of the project.
-2. Inside, view the specific **project** folder.
 
 
