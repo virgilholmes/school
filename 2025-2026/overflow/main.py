@@ -16,7 +16,7 @@ def on_button_pressed_a():
         
         pause(40)
         current_voltage = (pins.analog_read_pin(AnalogPin.P0) + pins.analog_read_pin(AnalogPin.P1))/2
-        print("Current Voltage: " + current_voltage)
+        print("current volt: " + current_voltage)
         light_list.append(current_voltage)
 
     for i in range(len(light_list)):
@@ -25,7 +25,7 @@ def on_button_pressed_a():
             best_angle = i
 
     pins.servo_write_pin(AnalogPin.P0, best_angle)
-    print("Best Angle Found! " + best_angle + " Degrees")
+    print("best angle found! " + best_angle + " degrees")
 input.on_button_pressed(Button.A, on_button_pressed_a)
 
 def on_button_pressed_b():
